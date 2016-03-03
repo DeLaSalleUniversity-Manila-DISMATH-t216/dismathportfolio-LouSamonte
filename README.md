@@ -50,3 +50,34 @@
  - I learned that there are Quantifiers (Existential and Universal) in Predicate Logic to set the Domain of Discourse.
  - Existential Quantifier (∃x): "there exist"
  - Universal Quantifier (∀x): "for all"
+ - We learned about the meaning ofpredicate logic.
+ - We also discussed what a quantifier is and its two types.
+ - I had a hard time understanding the statements including two types of quantifiers - universal and existensial.
+ 
+#Week 3
+- Sir taught us about the Rules of Inference.
+- In line with this, we talked about the meaning of an argument.
+- I had fun in distinguishing if an argument is valid or not.
+- We applied our previous learnings about logical connectives in proving if an argument is valid or not.
+- We can also use truth table by verfying if the argumant is a tautology.
+- We have learned that the validity doesn't depend on the truth of the premises. To remember this, he gave an example about Luis being a girl, which is obviuosly False, but the argument is still valid.
+
+
+#Week 4
+- We are alraedy talking about the meaning of a proof and a disproof.
+- We discussed several methods of proving theorems.
+- The first one is a direct proof where you assume that the first statement (p) is true, then prove that the second statement(q) is also true.
+- The second one is the proof by contraposition where you assume that the negation of q is true then prove that the negation of p is also true.
+- The next two are proof by Vacuous and Trivial. These two are easy to remember because they are patterned in the logical connective p → q. When p is F, p → q is automatically T (Vacuous), and when q is T, p → q is automatically T (Trivial).
+- I was really confused while studying this topic and I can't understand it immediately and need to have more examples.
+- 
+
+#Week 5
+- This week, we continued the discussion of methods of proving.
+- The proof by contradiction was introduced to us.
+- This method of proving is different form the previous methods because it is not dependent on the format of implication. All you have to do is prove that the negation of the premise is T. If it is not then the original premise is T.
+- The combination of direct and direct proof is use in proof by Equivalence.
+- I am sometimes confused in which method should I use. 
+- I am also confused in how should I prove that a statement is true by assuming that the other statement is true.
+- But sir told us a "tip": assign the goal and that is what you want to show.
+- We were also able to discuss Mathematical Induction in which at first, I am having a hard time to understand.
