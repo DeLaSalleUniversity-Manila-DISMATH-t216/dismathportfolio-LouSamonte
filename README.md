@@ -70,7 +70,6 @@
 - The second one is the proof by contraposition where you assume that the negation of q is true then prove that the negation of p is also true.
 - The next two are proof by Vacuous and Trivial. These two are easy to remember because they are patterned in the logical connective p → q. When p is F, p → q is automatically T (Vacuous), and when q is T, p → q is automatically T (Trivial).
 - I was really confused while studying this topic and I can't understand it immediately and need to have more examples.
-- 
 
 #Week 5
 - This week, we continued the discussion of methods of proving.
@@ -81,3 +80,33 @@
 - I am also confused in how should I prove that a statement is true by assuming that the other statement is true.
 - But sir told us a "tip": assign the goal and that is what you want to show.
 - We were also able to discuss Mathematical Induction in which at first, I am having a hard time to understand.
+- Mathematical Induction has two steps: 
+ - Basis Step in which you have to show that P(n) to be true.
+ - Inductive Step in which you have to show that P(n+1) is also true.
+- Recursive induction was also discussed and it is quite easy to understand given a simple function.
+
+#Week 6
+- We had an introduction about set theory in which we tackled about the meaning of some familiar terms such as:
+ - Set -  an unordered collection of distinct objects, which may be anything (including other sets).
+ - Subset - A set S is a subset of a set T (denoted S ⊆ T) if all elements of S are also elements of T.
+ - Cardinality - The cardinality of a set is the number of elements it contains.
+- I learned that two sets may be equivalent regardless of the order and repetitions of the elements inside it.
+- Some set operations were also tackled namely:
+ - Union
+ - Intersection
+ - Set Difference 
+ - Symmetric Difference
+- We also learned that the cardinality of natural numbers (which is infinity) is actually called "aleph-zero", "alephnought", or "alephnull".
+- We talked about Set Identities which is also patterned from Logical Equivalences.
+
+#Week 7
+- We had an introduction about Functions which is defined as the assignment of exactly one element of B to each element of A. (Let A and B be sets)
+- I am still having a hard time in distinguishing the function's domain and codomain. 
+- Sir told us that the range are the values that actually come out.
+- We dicussed about the different types of functions:
+  - One-to-one Function (Injective) - Functions that never assign the same value to two different domain elements; No value in the range is used by more than one value in the domain.
+  - Onto Function (Surjective) - Functions have equal range and codomain; For every value in the codomain, there is a value in the domain that is mapped to it.
+  - One-to-one Correspondence (Bijection) - If a function f is both one-to-one and onto, then it is a one-to-one correspondence.
+- I learned that a function such as f(x)=x^2 can be one type or another depending on the domain given (e.g. set of integers or set of positive integers)
+
+
