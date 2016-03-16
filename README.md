@@ -109,4 +109,23 @@
   - One-to-one Correspondence (Bijection) - If a function f is both one-to-one and onto, then it is a one-to-one correspondence.
 - I learned that a function such as f(x)=x^2 can be one type or another depending on the domain given (e.g. set of integers or set of positive integers)
 
+#Week 8
+- Sir introduced us to algorithms which is defined as a finite set of precise instructions for performing a computation or for solving a problem.
+- We also learned what a pseudocode is and Sir told us that when the problem in the quiz states that we should "define" the algorithm, he is asking for the pseudocode :)
+- A Precondition is a statement that describe valid input.
+- A Postcondition is a condition that the output should satisfy when the program has run.
+- There are 6 properties of algorithms:
+ - Input 
+ - Output
+ - Definiteness
+ - Correctness
+ - Finiteness
+ - Generality
+- Searching Algorithm is defined as the problem of locating an element in an ordered  list.
+- There are two types of Seaching algorithms discussed: Linear and Binary.
+- We also discussed the two types of Sorting Algorithms: Bubble Sort and Insertion Sort.
+- I am having a hard time understanding and making the pseudocode when I am not using a programming language to check it.
+- So as an alternative, Sir told us to use an iteration table which, I think, will be helpful during our quiz.
 
+#Week 9
+- Sir taught us what a greedy algorithm is : selecting the best choice at each step instead of considering all sequences of steps that may lead to an optimal solution.
