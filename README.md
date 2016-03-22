@@ -147,10 +147,10 @@
 - It can be expressed in terms of the number of operations used by the algorithm when the input has a particular size.
 		
   | Complexity | Terminology |
-		| :---: | :---: |
-		| ϴ(1) | constant complexity |
-		| ϴ(log n) | log complexity |
-		| ϴ(n) | linear complexity |
+  | :---: | :---: |
+  | ϴ(1) | constant complexity |
+  | ϴ(log n) | log complexity |
+  | ϴ(n) | linear complexity |
   | ϴ(n log n) | n log n complexity |
   | ϴ(n^b) | polynomial complexity |
   | ϴ(b^n) | exponential complexity |
