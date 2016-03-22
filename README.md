@@ -111,6 +111,7 @@
 
 #Week 8
 - Sir introduced us to algorithms which is defined as a finite set of precise instructions for performing a computation or for solving a problem.
+- I think this topic is one of the most confusing topics in this subject since we are like programming without using any programming language.
 - We also learned what a pseudocode is and Sir told us that when the problem in the quiz states that we should "define" the algorithm, he is asking for the pseudocode :)
 - A Precondition is a statement that describe valid input.
 - A Postcondition is a condition that the output should satisfy when the program has run.
@@ -129,3 +130,31 @@
 
 #Week 9
 - Sir taught us what a greedy algorithm is : selecting the best choice at each step instead of considering all sequences of steps that may lead to an optimal solution.
+- Growth of functions is used to know the number of algorithms a program has.
+- It is useful to know which algorithm (same program, different algorithm) is better -- the smaller the value, the better.
+- Big O notation was described as the upper bound of the function.
+- In Big O notation, the constants C and K (witnesses) are necessary.
+- Big O will be useless without the witnesses because the CORRECT witnesses will be helpful in making the g(x) become the upper bound of the f(x).
+- I learned that the witnesses cannot be negative because if they are negative, there would be no growth anymore.
+- I also learned that C is the multiplier of the function and k is the value of input where the overtaking started.
+- Common Big-O estimates was further discussed and I learned that Big-O doesn't provide a lower bound for the size of f(x).
+- We were introduced to Big Omega and Big Theta.
+- Big Omega provides the lower bound while Big Theta provides both upper and lower bound.
+- Using Big Theta is more desirable because it only gives us one answer, while Big O and Big Omega can give us multiple answers.
+
+#Week 10
+- Time complexity was discussed and it's really hard to understand.
+- It can be expressed in terms of the number of operations used by the algorithm when the input has a particular size.
+		
+  | Complexity | Terminology |
+		| :---: | :---: |
+		| ϴ(1) | constant complexity |
+		| ϴ(log n) | log complexity |
+		| ϴ(n) | linear complexity |
+  | ϴ(n log n) | n log n complexity |
+  | ϴ(n^b) | polynomial complexity |
+  | ϴ(b^n) | exponential complexity |
+  | ϴ(n!) | factorial complexity |
+
+- Time complexity is dependent on the number of comparisons an algorithm have.
+- Getting the time complexity is confusing so Sir used an iteration table to be able to explain how to get the number of comparisons.
