@@ -158,3 +158,9 @@
 
 - Time complexity is dependent on the number of comparisons an algorithm have.
 - Getting the time complexity is confusing so Sir used an iteration table to be able to explain how to get the number of comparisons.
+
+#Week 11
+- Sir said that the next topic is easy - Graph Theory.
+- A graph is a discrete structure consisting of vertices (nodes, points) and edges(lines, connections) that connect these vertices.
+- The degree of a vertex is the number of edges connected to the vertex. A vertex with a loop has 2 degrees.
+- Handshaking Theorem is counting the number of edges by getting the summation of (degree*vertices) and dividing it by 2.
