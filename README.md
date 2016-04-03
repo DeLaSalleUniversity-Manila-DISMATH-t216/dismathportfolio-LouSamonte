@@ -164,3 +164,14 @@
 - A graph is a discrete structure consisting of vertices (nodes, points) and edges(lines, connections) that connect these vertices.
 - The degree of a vertex is the number of edges connected to the vertex. A vertex with a loop has 2 degrees.
 - Handshaking Theorem is counting the number of edges by getting the summation of (degree*vertices) and dividing it by 2.
+- A path is a sequence of edges, as long as you can connect the nodes, there is a path, no edge means no path.
+- We learned about the Euler Circuit and Path.
+	- For us to have an EULER CIRCUIT, we should have EVEN DEGREE FOR ALL THE NODES.
+	- For us to have an EULER CIRCUIT, we should have ODD DEGREE FOR EXACTLY TWO NODES.
+- If we will be tracing the path for an Euler Circuit, we have to start at the odd degreed node.
+- We also talked about the Hamilton Circuit and Path.
+- The only difference between Eulerian and Hamiltonian is that Euler are for Edges and Hamilton are for vetices.
+- Planar graphs are graphs that can be drawn in the plane with edges not crossing each other.
+- Kuratowski's Theorem states that a graph is non planar, if and only if it contains K2,3 or K5 graph.
+- Homeomorphic means devicing a graph from another.
+- Euler Formula states that the number of regions can be obtained from the formula: r = e - v + 2
