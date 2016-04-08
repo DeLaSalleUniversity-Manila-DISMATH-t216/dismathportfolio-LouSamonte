@@ -175,3 +175,23 @@
 - Kuratowski's Theorem states that a graph is non planar, if and only if it contains K2,3 or K5 graph.
 - Homeomorphic means devicing a graph from another.
 - Euler Formula states that the number of regions can be obtained from the formula: r = e - v + 2
+
+#Week 12
+- The concept of graph coloring is adjacent regions couldn't have the same color.
+- Four color Theorem states that the chromatic number of a planar graph is no greater than four.
+- A K5 has a chromatic number of 5 and a k6 has a chromatic number of 6.
+- When given a cycle, if the number of vertices is even, then the chromatic number is 2, if it is odd, then the chromatic number is 3.
+- A tree is a connected undirected graph with no simple circuits.
+- When there are two or more trees in a graph, it is called a forest :)
+- Some terminologies related to trees: parent, siblings, child, ancestors, descendants, leaf, and internal vertices.
+- The tree is called a full m-ary tree if every internal vertex has exactly m children.
+- Formulas used:
+	- A tree with n vertices has n-1 edges.
+	- A full m-ary tree with i internal vertices contains n=mi+1 vertices
+	- A dull m-ary tree
+		- n vertices has i-(n-1)/m internal vertices l=[(m-1)n+1]/m leaves
+		- i internal vertices has n = mi+1 vertices and l=(m-1)i + 1 leaves.
+		- L leaves has n=(ml-1)/(m-1) vertices and i=(l-1)/(m-1) internal vertices.
+- The automata studies the law of computation.
+
+
