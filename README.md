@@ -193,5 +193,7 @@
 		- i internal vertices has n = mi+1 vertices and l=(m-1)i + 1 leaves.
 		- L leaves has n=(ml-1)/(m-1) vertices and i=(l-1)/(m-1) internal vertices.
 - The automata studies the law of computation.
+- Finite state machines were also discussed and it seems easy to understand based on the example given by Sir. 
+- Application of finite state machine: how the vending machine works ( amaziiing! :) )
 
 
